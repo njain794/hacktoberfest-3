@@ -1,3 +1,2 @@
 # hacktoberfest
-10
-=======
+6
