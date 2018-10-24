@@ -2,6 +2,12 @@
 6
 
 ## Python
-``` python
+``` bash
 python helloworld.py
+```
+
+## C
+```
+gcc helloworld.c -o hello
+./hello
 ```
